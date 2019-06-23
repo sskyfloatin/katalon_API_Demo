@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63aa8da5-e2bf-4b2b-86eb-a430be152de6</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.cookie</defaultValue>
+      <description></description>
+      <id>85a338fc-d3f5-4e4f-b686-00771e6bb83b</id>
+      <masked>false</masked>
+      <name>cookie</name>
+   </variable>
+</TestCaseEntity>
